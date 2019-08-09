@@ -1,4 +1,10 @@
 
+
+
+//I was unable to solve the lcdisplay hete is some part of my attempt.
+
+
+
 #include <iostream>
 
 using namespace std;
