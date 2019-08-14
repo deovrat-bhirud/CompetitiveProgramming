@@ -11,9 +11,8 @@ int main()
         int k;
         cin>>k;
         int1024_t count=1;
-        
         for(int i=1; i<=k;i++)
-            count=( int1024_t)count*i;
+            count=count*i;
         cout<<count<<endl;
         count=1;
     }
